@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewonkya&layout=compact&theme=solarized-light)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leewonkya&theme=solarized-light)
+![GitHub Streak](https://streak-stats.demolab.com/?username=leewonkya&layout=compact&theme=solarized-light)
+
