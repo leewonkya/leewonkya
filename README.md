@@ -11,4 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=leewonkya&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=leewonkya&show_icons=tru&theme=solarized-light)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewonkya&layout=compact&theme=solarized-light)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leewonkya&theme=solarized-light)
